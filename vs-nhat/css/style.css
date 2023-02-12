@@ -1,0 +1,16 @@
+@font-face {
+    font-family: HCo Gotham SSm,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+    src: url(1748-font.otf);
+  }
+body{
+    font-family: HCo Gotham SSm,Helvetica Neue,Helvetica,Arial,Lucida Grande,sans-serif;
+}
+.container{
+    border-radius: 8px;
+}
+
+.lb1{
+font-size: 20px;
+text-align: center;
+margin-top: 20px;
+}
